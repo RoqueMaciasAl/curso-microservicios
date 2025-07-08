@@ -17,6 +17,7 @@
 
     <modules>
         <module>mcsv-usuarios</module> <!-- modulo de microservicio usuario -->
+        <module>mcsv-cursos</module><!-- modulo de microservicio curso -->
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
